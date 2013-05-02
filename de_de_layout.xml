@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE keyboard SYSTEM 'VirtualKeyboardLayout.dtd'>
+<keyboard title="Deutsch (iPhone)" version="1.0" catalog="de_de" language="de_de">
+	<layout type="general">
+		<section id="main">
+			<row>
+				<key>
+					<binding label="q"/>
+					<binding shift="true" label="Q"/>
+				</key>
+				<key>
+					<binding label="w"/>
+					<binding shift="true" label="W"/>
+				</key>
+				<key>
+					<binding label="e" extended_labels="ëéèê€"/>
+					<binding shift="true" label="E" extended_labels="ËÉÈÊ€"/>
+				</key>
+				<key>
+					<binding label="r"/>
+					<binding shift="true" label="R"/>
+				</key>
+				<key>
+					<binding label="t" extended_labels="þ"/>
+					<binding shift="true" label="T" extended_labels="Þ"/>
+				</key>
+				<key>
+					<binding label="z"/>
+					<binding shift="true" label="Z"/>
+				</key>
+				<key>
+					<binding label="u" extended_labels="üúùû"/>
+					<binding shift="true" label="U" extended_labels="ÜÚÙÛ"/>
+				</key>
+				<key>
+					<binding label="i" extended_labels="ïíìî"/>
+					<binding shift="true" label="I" extended_labels="ÏÍÌÎ"/>
+				</key>
+				<key>
+					<binding label="o" extended_labels="öóòô"/>
+					<binding shift="true" label="O" extended_labels="ÖÓÒÔ"/>
+				</key>
+				<key>
+					<binding label="p"/>
+					<binding shift="true" label="P"/>
+				</key>
+			</row>
+			<row>
+				<spacer/>
+				<key>
+					<binding label="a" extended_labels="äáàâãå"/>
+					<binding shift="true" label="A" extended_labels="ÄÁÀÂÃÅ"/>
+				</key>
+				<key>
+					<binding label="s" extended_labels="ß$"/>
+					<binding shift="true" label="S" extended_labels="$"/>
+				</key>
+				<key>
+					<binding label="d"/>
+					<binding shift="true" label="D"/>
+				</key>
+				<key>
+					<binding label="f"/>
+					<binding shift="true" label="F"/>
+				</key>
+				<key>
+					<binding label="g"/>
+					<binding shift="true" label="G"/>
+				</key>
+				<key>
+					<binding label="h"/>
+					<binding shift="true" label="H"/>
+				</key>
+				<key>
+					<binding label="j"/>
+					<binding shift="true" label="J"/>
+				</key>
+				<key>
+					<binding label="k"/>
+					<binding shift="true" label="K"/>
+				</key>
+				<key>
+					<binding label="l"/>
+					<binding shift="true" label="L"/>
+				</key>
+				<spacer/>
+			</row>
+			<row>
+				<key style="special" width="x-large">
+					<binding action="shift"/>
+				</key>
+				<key>
+					<binding label="y" extended_labels="¥"/>
+					<binding shift="true" label="Y" extended_labels="¥"/>
+				</key>
+				<key>
+					<binding label="x"/>
+					<binding shift="true" label="X"/>
+				</key>
+				<key>
+					<binding label="c"/>
+					<binding shift="true" label="C"/>
+				</key>
+				<key>
+					<binding label="v"/>
+					<binding shift="true" label="V"/>
+				</key>
+				<key>
+					<binding label="b"/>
+					<binding shift="true" label="B"/>
+				</key>
+				<key>
+					<binding label="n" extended_labels="ñ"/>
+					<binding shift="true" label="N" extended_labels="Ñ"/>
+				</key>
+				<key>
+					<binding label="m" extended_labels="µ"/>
+					<binding shift="true" label="M" />
+				</key>
+				<key style="special" width="x-large">
+					<binding action="backspace"/>
+				</key>
+			</row>
+			<row>
+				<key style="special" width="x-large">
+					<binding action="sym" label="123"/>
+				</key>
+				<key width="stretched">
+					<binding action="space" extended_labels=". "/>
+				</key>
+				<key style="special" width="x-large" id="actionKey">
+					<binding action="return"/>
+				</key>
+			</row>
+		</section>
+	</layout>
+	<layout type="general" orientation="landscape">
+		<section id="main">
+			<row>
+				<key>
+					<binding label="q"/>
+					<binding shift="true" label="Q"/>
+				</key>
+				<key>
+					<binding label="w"/>
+					<binding shift="true" label="W"/>
+				</key>
+				<key>
+					<binding label="e" extended_labels="ëéèê€"/>
+					<binding shift="true" label="E" extended_labels="ËÉÈÊ€"/>
+				</key>
+				<key>
+					<binding label="r"/>
+					<binding shift="true" label="R"/>
+				</key>
+				<key>
+					<binding label="t" extended_labels="þ"/>
+					<binding shift="true" label="T" extended_labels="Þ"/>
+				</key>
+				<key>
+					<binding label="z"/>
+					<binding shift="true" label="Z"/>
+				</key>
+				<key>
+					<binding label="u" extended_labels="üúùû"/>
+					<binding shift="true" label="U" extended_labels="ÜÚÙÛ"/>
+				</key>
+				<key>
+					<binding label="i" extended_labels="ïíìî"/>
+					<binding shift="true" label="I" extended_labels="ÏÍÌÎ"/>
+				</key>
+				<key>
+					<binding label="o" extended_labels="öóòô"/>
+					<binding shift="true" label="O" extended_labels="ÖÓÒÔ"/>
+				</key>
+				<key>
+					<binding label="p"/>
+					<binding shift="true" label="P"/>
+				</key>
+			</row>
+			<row>
+				<spacer/>
+				<key>
+					<binding label="a" extended_labels="äáàâãå"/>
+					<binding shift="true" label="A" extended_labels="ÄÁÀÂÃÅ"/>
+				</key>
+				<key>
+					<binding label="s" extended_labels="ß$"/>
+					<binding shift="true" label="S" extended_labels="$"/>
+				</key>
+				<key>
+					<binding label="d"/>
+					<binding shift="true" label="D"/>
+				</key>
+				<key>
+					<binding label="f"/>
+					<binding shift="true" label="F"/>
+				</key>
+				<key>
+					<binding label="g"/>
+					<binding shift="true" label="G"/>
+				</key>
+				<key>
+					<binding label="h"/>
+					<binding shift="true" label="H"/>
+				</key>
+				<key>
+					<binding label="j"/>
+					<binding shift="true" label="J"/>
+				</key>
+				<key>
+					<binding label="k"/>
+					<binding shift="true" label="K"/>
+				</key>
+				<key>
+					<binding label="l"/>
+					<binding shift="true" label="L"/>
+				</key>
+				<spacer/>
+			</row>
+			<row>
+				<key style="special" width="x-large">
+					<binding action="shift"/>
+				</key>
+				<key>
+					<binding label="y" extended_labels="¥"/>
+					<binding shift="true" label="Y" extended_labels="¥"/>
+				</key>
+				<key>
+					<binding label="x"/>
+					<binding shift="true" label="X"/>
+				</key>
+				<key>
+					<binding label="c"/>
+					<binding shift="true" label="C"/>
+				</key>
+				<key>
+					<binding label="v"/>
+					<binding shift="true" label="V"/>
+				</key>
+				<key>
+					<binding label="b"/>
+					<binding shift="true" label="B"/>
+				</key>
+				<key>
+					<binding label="n" extended_labels="ñ"/>
+					<binding shift="true" label="N" extended_labels="Ñ"/>
+				</key>
+				<key>
+					<binding label="m"/>
+					<binding shift="true" label="M"/>
+				</key>
+				<key style="special" width="x-large">
+					<binding action="backspace"/>
+				</key>
+			</row>
+			<row>
+				<key style="special" width="x-large">
+					<binding action="sym" label="123"/>
+				</key>
+				<key width="stretched">
+					<binding action="space" extended_labels=". "/>
+				</key>
+				<key style="special" width="x-large" id="actionKey">
+					<binding action="return"/>
+				</key>
+			</row>
+		</section>
+	</layout>
+	
+	<import file="symbols_de_iphone.xml"/>
+</keyboard>
