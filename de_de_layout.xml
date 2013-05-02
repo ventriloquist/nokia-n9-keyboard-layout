@@ -125,8 +125,11 @@
 				<key style="special" width="x-large">
 					<binding action="sym" label="123"/>
 				</key>
+				<key id="emailUrlKey">
+					<binding label="."/>
+				</key>
 				<key width="stretched">
-					<binding action="space" extended_labels=". "/>
+					<binding action="space"/>
 				</key>
 				<key style="special" width="x-large" id="actionKey">
 					<binding action="return"/>
@@ -258,8 +261,11 @@
 				<key style="special" width="x-large">
 					<binding action="sym" label="123"/>
 				</key>
+				<key id="emailUrlKey">
+					<binding label="."/>
+				</key>
 				<key width="stretched">
-					<binding action="space" extended_labels=". "/>
+					<binding action="space"/>
 				</key>
 				<key style="special" width="x-large" id="actionKey">
 					<binding action="return"/>
